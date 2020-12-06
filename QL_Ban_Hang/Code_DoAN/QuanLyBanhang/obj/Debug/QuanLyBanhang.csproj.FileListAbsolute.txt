@@ -1,0 +1,158 @@
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe.config
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\bin\Debug\QuanLyBanhang.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\bin\Debug\BUS.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\bin\Debug\DTO.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\bin\Debug\DAL.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\bin\Debug\BUS.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\bin\Debug\DTO.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\bin\Debug\DAL.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.DangNhap.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.DonHang.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.KhachHang.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.NhaCungCap.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanHang.NhanVien.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.QLBanHang.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanHang.SanPham.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.TaiKhoan.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CopyComplete
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.exe
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\QuanLyBanhang\obj\Debug\QuanLyBanhang.LichSu.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe.config
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\bin\Debug\QuanLyBanhang.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\bin\Debug\BUS.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\bin\Debug\DTO.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\bin\Debug\DAL.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\bin\Debug\BUS.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\bin\Debug\DTO.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\bin\Debug\DAL.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.DangNhap.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.DonHang.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.KhachHang.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.LichSu.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.NhaCungCap.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanHang.NhanVien.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.QLBanHang.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanHang.SanPham.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.TaiKhoan.resources
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CopyComplete
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.exe
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.pdb
+D:\DoAnNam2\DoAn\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe.config
+D:\DoAnNam2\DoAn\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe
+D:\DoAnNam2\DoAn\QuanLyBanhang\bin\Debug\QuanLyBanhang.pdb
+D:\DoAnNam2\DoAn\QuanLyBanhang\bin\Debug\BUS.dll
+D:\DoAnNam2\DoAn\QuanLyBanhang\bin\Debug\DTO.dll
+D:\DoAnNam2\DoAn\QuanLyBanhang\bin\Debug\DAL.dll
+D:\DoAnNam2\DoAn\QuanLyBanhang\bin\Debug\BUS.pdb
+D:\DoAnNam2\DoAn\QuanLyBanhang\bin\Debug\DTO.pdb
+D:\DoAnNam2\DoAn\QuanLyBanhang\bin\Debug\DAL.pdb
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.csprojAssemblyReference.cache
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.DangNhap.resources
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.DonHang.resources
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.LichSu.resources
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.KhachHang.resources
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.NhaCungCap.resources
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanHang.NhanVien.resources
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.Properties.Resources.resources
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.QLBanHang.resources
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanHang.SanPham.resources
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.TaiKhoan.resources
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.GenerateResource.cache
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CoreCompileInputs.cache
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CopyComplete
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.exe
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.pdb
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.DoiMatKhau.resources
+D:\DoAnNam2\DoAn\QuanLyBanhang\obj\Debug\QuanLyBanhang.TroGiup.resources
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe.config
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\bin\Debug\QuanLyBanhang.pdb
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\bin\Debug\BUS.dll
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\bin\Debug\DTO.dll
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\bin\Debug\DAL.dll
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\bin\Debug\BUS.pdb
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\bin\Debug\DTO.pdb
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\bin\Debug\DAL.pdb
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.csprojAssemblyReference.cache
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.DangNhap.resources
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.DoiMatKhau.resources
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.DonHang.resources
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.LichSu.resources
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.KhachHang.resources
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.NhaCungCap.resources
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanHang.NhanVien.resources
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.Properties.Resources.resources
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.QLBanHang.resources
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanHang.SanPham.resources
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.TaiKhoan.resources
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.TroGiup.resources
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.GenerateResource.cache
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CoreCompileInputs.cache
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CopyComplete
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.exe
+D:\QLBH\DoAnDETAIVE\QuanLyBanhang\obj\Debug\QuanLyBanhang.pdb
+D:\QLBH\dn\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe.config
+D:\QLBH\dn\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe
+D:\QLBH\dn\QuanLyBanhang\bin\Debug\QuanLyBanhang.pdb
+D:\QLBH\dn\QuanLyBanhang\bin\Debug\BUS.dll
+D:\QLBH\dn\QuanLyBanhang\bin\Debug\DTO.dll
+D:\QLBH\dn\QuanLyBanhang\bin\Debug\DAL.dll
+D:\QLBH\dn\QuanLyBanhang\bin\Debug\BUS.pdb
+D:\QLBH\dn\QuanLyBanhang\bin\Debug\DTO.pdb
+D:\QLBH\dn\QuanLyBanhang\bin\Debug\DAL.pdb
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.csprojAssemblyReference.cache
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.DangNhap.resources
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.DoiMatKhau.resources
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.DonHang.resources
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.LichSu.resources
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.KhachHang.resources
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.NhaCungCap.resources
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanHang.NhanVien.resources
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.Properties.Resources.resources
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.QLBanHang.resources
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanHang.SanPham.resources
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.TaiKhoan.resources
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.TroGiup.resources
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.GenerateResource.cache
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CoreCompileInputs.cache
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CopyComplete
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.exe
+D:\QLBH\dn\QuanLyBanhang\obj\Debug\QuanLyBanhang.pdb
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe.config
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\bin\Debug\QuanLyBanhang.exe
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\bin\Debug\QuanLyBanhang.pdb
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\bin\Debug\BUS.dll
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\bin\Debug\DAL.dll
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\bin\Debug\DTO.dll
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\bin\Debug\BUS.pdb
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\bin\Debug\DAL.pdb
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\bin\Debug\DTO.pdb
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.csprojAssemblyReference.cache
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.DangNhap.resources
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.DoiMatKhau.resources
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.DonHang.resources
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.LichSu.resources
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.KhachHang.resources
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.NhaCungCap.resources
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanHang.NhanVien.resources
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.Properties.Resources.resources
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.QLBanHang.resources
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanHang.SanPham.resources
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.TaiKhoan.resources
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.TroGiup.resources
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.GenerateResource.cache
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CoreCompileInputs.cache
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.csproj.CopyComplete
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.exe
+D:\Đồ Án Doanh Nghiệp\Code_DoAN\QuanLyBanhang\obj\Debug\QuanLyBanhang.pdb

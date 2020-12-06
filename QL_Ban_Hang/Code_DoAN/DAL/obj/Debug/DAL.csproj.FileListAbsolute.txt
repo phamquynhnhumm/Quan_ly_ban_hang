@@ -1,0 +1,45 @@
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DAL\bin\Debug\DAL.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DAL\bin\Debug\DAL.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DAL\bin\Debug\DTO.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DAL\bin\Debug\DTO.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DAL\obj\Debug\DAL.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DAL\obj\Debug\DAL.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\DAL\bin\Debug\DAL.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\DAL\bin\Debug\DAL.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\DAL\bin\Debug\DTO.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\DAL\bin\Debug\DTO.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\DAL\obj\Debug\DAL.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\DAL\obj\Debug\DAL.pdb
+D:\DoAnNam2\DoAn\DAL\bin\Debug\DAL.dll
+D:\DoAnNam2\DoAn\DAL\bin\Debug\DAL.pdb
+D:\DoAnNam2\DoAn\DAL\bin\Debug\DTO.dll
+D:\DoAnNam2\DoAn\DAL\bin\Debug\DTO.pdb
+D:\DoAnNam2\DoAn\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\DoAnNam2\DoAn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DoAnNam2\DoAn\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\DoAnNam2\DoAn\DAL\obj\Debug\DAL.dll
+D:\DoAnNam2\DoAn\DAL\obj\Debug\DAL.pdb
+D:\QLBH\DoAnDETAIVE\DAL\bin\Debug\DAL.dll
+D:\QLBH\DoAnDETAIVE\DAL\bin\Debug\DAL.pdb
+D:\QLBH\DoAnDETAIVE\DAL\bin\Debug\DTO.dll
+D:\QLBH\DoAnDETAIVE\DAL\bin\Debug\DTO.pdb
+D:\QLBH\DoAnDETAIVE\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\QLBH\DoAnDETAIVE\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QLBH\DoAnDETAIVE\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\QLBH\DoAnDETAIVE\DAL\obj\Debug\DAL.dll
+D:\QLBH\DoAnDETAIVE\DAL\obj\Debug\DAL.pdb
+D:\QLBH\dn\DAL\bin\Debug\DAL.dll
+D:\QLBH\dn\DAL\bin\Debug\DAL.pdb
+D:\QLBH\dn\DAL\bin\Debug\DTO.dll
+D:\QLBH\dn\DAL\bin\Debug\DTO.pdb
+D:\QLBH\dn\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\QLBH\dn\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QLBH\dn\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\QLBH\dn\DAL\obj\Debug\DAL.dll
+D:\QLBH\dn\DAL\obj\Debug\DAL.pdb

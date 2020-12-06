@@ -1,0 +1,55 @@
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\BUS\bin\Debug\BUS.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\BUS\bin\Debug\BUS.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\BUS\bin\Debug\DAL.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\BUS\bin\Debug\DTO.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\BUS\bin\Debug\DAL.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\BUS\bin\Debug\DTO.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\BUS\obj\Debug\BUS.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\BUS\obj\Debug\BUS.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\BUS\bin\Debug\BUS.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\BUS\bin\Debug\DAL.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\BUS\bin\Debug\DTO.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\BUS\bin\Debug\DAL.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\BUS\obj\Debug\BUS.dll
+C:\Users\HP\Documents\Visual Studio 2019\Code Snippets\Visual C#\DoAn\BUS\obj\Debug\BUS.pdb
+D:\DoAnNam2\DoAn\BUS\bin\Debug\BUS.dll
+D:\DoAnNam2\DoAn\BUS\bin\Debug\BUS.pdb
+D:\DoAnNam2\DoAn\BUS\bin\Debug\DAL.dll
+D:\DoAnNam2\DoAn\BUS\bin\Debug\DTO.dll
+D:\DoAnNam2\DoAn\BUS\bin\Debug\DAL.pdb
+D:\DoAnNam2\DoAn\BUS\bin\Debug\DTO.pdb
+D:\DoAnNam2\DoAn\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\DoAnNam2\DoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DoAnNam2\DoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DoAnNam2\DoAn\BUS\obj\Debug\BUS.dll
+D:\DoAnNam2\DoAn\BUS\obj\Debug\BUS.pdb
+D:\QLBH\DoAnDETAIVE\BUS\bin\Debug\BUS.dll
+D:\QLBH\DoAnDETAIVE\BUS\bin\Debug\BUS.pdb
+D:\QLBH\DoAnDETAIVE\BUS\bin\Debug\DAL.dll
+D:\QLBH\DoAnDETAIVE\BUS\bin\Debug\DTO.dll
+D:\QLBH\DoAnDETAIVE\BUS\bin\Debug\DAL.pdb
+D:\QLBH\DoAnDETAIVE\BUS\bin\Debug\DTO.pdb
+D:\QLBH\DoAnDETAIVE\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\QLBH\DoAnDETAIVE\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\QLBH\DoAnDETAIVE\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\QLBH\DoAnDETAIVE\BUS\obj\Debug\BUS.dll
+D:\QLBH\DoAnDETAIVE\BUS\obj\Debug\BUS.pdb
+D:\QLBH\dn\BUS\bin\Debug\BUS.dll
+D:\QLBH\dn\BUS\bin\Debug\BUS.pdb
+D:\QLBH\dn\BUS\bin\Debug\DAL.dll
+D:\QLBH\dn\BUS\bin\Debug\DTO.dll
+D:\QLBH\dn\BUS\bin\Debug\DAL.pdb
+D:\QLBH\dn\BUS\bin\Debug\DTO.pdb
+D:\QLBH\dn\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\QLBH\dn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\QLBH\dn\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\QLBH\dn\BUS\obj\Debug\BUS.dll
+D:\QLBH\dn\BUS\obj\Debug\BUS.pdb
